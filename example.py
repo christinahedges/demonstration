@@ -1,2 +1,2 @@
-def my_func(name:str):
-    print(f"Hello, {name}!")
+def my_func(name:str, language:str='Python'):
+    print(f"Hello, {name}! I like using {language}!")
